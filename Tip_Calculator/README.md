@@ -5,7 +5,7 @@ This Python script calculates the total bill, including a user-defined tip perce
 Project Link: https://replit.com/@SamihCodes/Tip-Calculator
 
 ---
-# Concepts Practised
+# Concepts Learned
 - Python Primitive Data Types
 - Type Error, Type Checking and Type Conversion
 - Data Types
