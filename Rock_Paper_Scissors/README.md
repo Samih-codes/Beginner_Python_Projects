@@ -4,6 +4,8 @@ Overview: This Python program implements the fun classic Rock, Paper, Scissors g
 
 Project Link: https://replit.com/@SamihCodes/rock-paper-scissors
 
+---
+
 # Concepts Learned
 - Random Module
 - Understanding the Offset and Appending Items to Lists
