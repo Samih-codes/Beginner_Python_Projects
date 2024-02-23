@@ -4,6 +4,8 @@ Welcome to a simple Hangman game implemented in Python. Guess the word by sugges
 
 Project Link: https://replit.com/@SamihCodes/Myhangmangame
 
+---
+
 # Concepts Learned
 - How to break a Complex Problem down into a Flow Chart
 - How to Check the User's Answer
