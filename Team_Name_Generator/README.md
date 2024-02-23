@@ -2,7 +2,8 @@
 Overview:
 This Python script prompts users to input their city name and favorite animal's plural name to generate a unique basketball team name.
 
-Project Link: https://replit.com/@SamihCodes/Team-name-generator
+Project Link: https://replit.com@samihCodes/Team-name-generator
+
 ---
 # Concepts Learned
 - Printing to the Console in Python
