@@ -4,6 +4,6 @@ Overview: This Python script implements a Higher Lower Game where the player mus
 Project Link: https://replit.com/@SamihCodes/instagram-higher-lower-game
 
 # Concepts Learned
-- Using Dictionary Data
-- Using Procedures
-- Using Conditional Statements
+- Dictionary data
+- Procedures
+- Conditional statements
