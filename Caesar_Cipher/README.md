@@ -7,5 +7,6 @@ Project Link: https://replit.com/@SamihCodes/caesar-cipher
 ---
 
 # Concepts Learned
-- Functions with Inputs
-- Positional vs. Keyword Arguments
+- Functions with inputs
+- Positional arguments
+- Keyword arguments
