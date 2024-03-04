@@ -7,6 +7,6 @@ Project Link: https://replit.com/@SamihCodes/rock-paper-scissors
 ---
 
 # Concepts Learned
-- Random Module
-- Understanding the Offset and Appending Items to Lists
-- Index Errors and Working with Nested Lists
+- Utilizing the random module
+- Working with offsets and appending items to lists
+- Handling index errors and nested lists
