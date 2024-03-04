@@ -5,9 +5,9 @@ Project Link: https://replit.com/@SamihCodes/My-basic-calculator
 
 ---
 # Concepts Learned
-- Function with Outputs
+- Function outputs
 - Multiple return values
-- Docstrings
-- Combining Dictionaries and Functions
-- Print vs. Return
-- While Loops, Flags and Recursion
+- Documentation strings (docstrings)
+- Combining dictionaries and functions
+- Print versus return
+- While loops, flags, and recursion
