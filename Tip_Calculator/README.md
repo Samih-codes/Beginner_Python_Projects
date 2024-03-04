@@ -6,8 +6,8 @@ Project Link: https://replit.com/@SamihCodes/Tip-Calculator
 
 ---
 # Concepts Learned
-- Python Primitive Data Types
-- Type Error, Type Checking and Type Conversion
-- Data Types
-- Mathematical Operations in Python
-- Number Manipulation and F Strings in Python
+- Python primitive data types
+- Type error, type checking and type conversion
+- Data types
+- Mathematical operations in Python
+- Number manipulation and f strings in Python
