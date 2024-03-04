@@ -7,8 +7,8 @@ Project Link: https://replit.com/@SamihCodes/Treasure-island-adventure
 
 ---
 # Concepts Learned
-- Managing Control Flow using if/else and Conditional Expressions
-- Utilizing the Modulo Operator
-- Employing Nested if and elif Statements
-- Sequences of Multiple if Statements
-- Working with Logical Operators
+- Managing control flow using if/else and conditional expressions
+- Utilizing the modulo operator
+- Employing nested if and elif statements
+- Sequences of multiple if statements
+- Working with logical operators
