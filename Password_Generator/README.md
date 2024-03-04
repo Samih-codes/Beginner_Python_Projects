@@ -7,5 +7,5 @@ Project Link: https://replit.com/@SamihCodes/Password-Generator
 ---
 
 Concepts Learned
-- Using the for loop with Python Lists
-- For loops and the range() function
+- Utilizing the for loop with Python lists
+- Employing for loops alongside the range() function
