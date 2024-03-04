@@ -4,5 +4,5 @@ Overview: This Python program implements a secret auction event where participan
 ---
 
 # Concepts Learned
-- The Python Dictionary
-- Nesting Lists and Dictionaries
+- Python dictionary
+- Nesting lists and dictionaries
