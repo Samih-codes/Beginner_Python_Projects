@@ -5,5 +5,5 @@ Project Link: https://replit.com/@SamihCodes/MyNumberGuessingGame
 
 ---
 # Concepts Learned
-- How to Modify a Global Variable
-- Python Constants and Global Scope
+- Modifying global variables in Python
+- Understanding Python constants and global scope
