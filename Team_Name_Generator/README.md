@@ -6,9 +6,9 @@ Project Link: https://replit.com@samihCodes/Team-name-generator
 
 ---
 # Concepts Learned
-- Printing to the Console in Python
-- String Manipulation and Code Intelligence
-- Debugging
-- The Python Input Function
-- Python Variables
-- Variable Naming
+- Outputting to the console in Python
+- Manipulating strings and utilizing code intelligence
+- Debugging techniques
+- Utilizing the Python input function
+- Understanding Python variables
+- Proper naming conventions for variables
